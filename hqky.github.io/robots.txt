@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hqky.github.io/sitemap.xml
